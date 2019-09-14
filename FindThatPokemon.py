@@ -33,3 +33,5 @@ cv2.moveWindow("Result", 150, 50);
 
 print(top_left)
 cv2.waitKey(0)
+cv2.destroyAllWindows()
+cv2.waitKey(1)
