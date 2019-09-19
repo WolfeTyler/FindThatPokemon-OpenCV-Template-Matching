@@ -27,3 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * OpenCV Template Matching Documentation - https://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/template_matching/template_matching.html
+* Using OpenCV, Python and TemplateMatching to play “Where’s Waldo?” - https://www.pyimagesearch.com/wp-content/uploads/2014/11/opencv_crash_course_waldo.pdf
